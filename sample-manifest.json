@@ -1,0 +1,12 @@
+{
+  "export_job_id": "719c46a7-1e07-4bb5-9509-210a89336797",
+  "id_short": 435448,
+  "published_at": "2026-04-16T19:58:33Z",
+  "repo_name": "new-restaurant-domains-365-days-in-new-york-city-ny-us-sample-435448",
+  "sample_asset_name": "beamstation_435448_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/435448/beamstation_435448_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 119,
+  "sample_sha256": "904649faa60bcc1a9213ce94f54a18533b10f66e4a83e3f4c44093326c13fb4e",
+  "sample_size_bytes": 408655,
+  "total_records": 1198
+}
